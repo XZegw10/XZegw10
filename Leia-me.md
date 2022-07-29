@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @XZegw10 (Arthur Vasconcelos)
+- 👀 I’m interested in ... program developing
+- 🌱 I’m currently learning... C/C++, arrays, algorithms, memory, data structure, python, sql, html, css, javascript, flask, ethic
+- 📫 How to reach me ... tell me on +55 55 997210707 Whatsapp
